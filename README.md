@@ -2,7 +2,7 @@
 ## 📌Introduction
 * This is a static portfolio application built using HTML5, CSS3, JavaScript & deployed on Microsoft Azure. In Addition, Project built under Microsoft Future Ready Talent Programme.
 ## 📌Deployed URL
-* https://sastaticwesbite.z7.web.core.windows.net/#about
+* https://sastaticwesbite.z7.web.core.windows.net
 
 ![Screenshot 2022-02-27 at 12 41 14 PM](https://user-images.githubusercontent.com/35923279/155872412-29d2d5e6-d17c-4da2-93f6-bdda90cf13a9.png)
 
